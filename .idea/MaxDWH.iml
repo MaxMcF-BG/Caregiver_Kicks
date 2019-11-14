@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="DBE_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/Box/Business Analytics/Analytics Team/Max McFarland/Documents/Github/CommsPull" />
+    <content url="file://$USER_HOME$/Box/Business Analytics/Analytics Team/Max McFarland/Documents/Github/CommsPull/CommsPullScripts" />
+    <content url="file://$USER_HOME$/Box/Business Analytics/Analytics Team/Max McFarland/Documents/Github/SQLScripts" />
+    <content url="file://$USER_HOME$/Documents/Github/BGID_Scripts" />
+    <content url="file://$USER_HOME$/Documents/sql_scripts" />
+    <content url="file://$APPLICATION_CONFIG_DIR$/consoles/db/CommsPull" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

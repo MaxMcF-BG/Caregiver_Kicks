@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Caregiver Kicks DB" uuid="8cd6d36e-5da0-467f-a679-90e3e9aaedf9">
+    <data-source source="LOCAL" name="DWH" uuid="8cd6d36e-5da0-467f-a679-90e3e9aaedf9">
       <driver-ref>redshift</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.amazon.redshift.jdbc.Driver</jdbc-driver>
